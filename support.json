@@ -1,0 +1,226 @@
+[
+  {
+    "role": "support",
+    "hero": "Rafaela",
+    "skin": [
+      {"name": "Wings of Holiness", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2b/Hero121-portrait.png/revision/latest?cb=20220525164900"},
+      {"name": "S.A.B.E.R. Savior", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/33/Hero122-portrait.png/revision/latest?cb=20220525164901"},
+      {"name": "Floral Elf", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/44/Hero123-portrait.png/revision/latest?cb=20220525164902"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Estes",
+    "skin": [
+      {"name": "Moon Elf King", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero181-portrait.png/revision/latest?cb=20220525164907"},
+      {"name": "Crow Bishop", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero182-portrait.png/revision/latest?cb=20220525164908"},
+      {"name": "Holy Priest", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero183-portrait.png/revision/latest?cb=20220525164909"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Diggie",
+    "skin": [
+      {"name": "Timekeeper", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/64/Hero401-portrait.png/revision/latest?cb=20220525165109"},
+      {"name": "Pigeon", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/75/Hero402-portrait.png/revision/latest?cb=20220525165110"},
+      {"name": "Pigeot", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/86/Hero403-portrait.png/revision/latest?cb=20220525165111"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Angela",
+    "skin": [
+      {"name": "Dove & Love", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/69/Hero621-portrait.png/revision/latest?cb=20220525165546"},
+      {"name": "Summer Vibes", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero622-portrait.png/revision/latest?cb=20220525165547"},
+      {"name": "Shanghai Maiden", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero623-portrait.png/revision/latest?cb=20220525165548"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Kaja",
+    "skin": [
+      {"name": "Wings of Justice", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero701-portrait.png/revision/latest?cb=20220525165647"},
+      {"name": "Commandment", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero702-portrait.png/revision/latest?cb=20220525165648"},
+      {"name": "Kaminari", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero703-portrait.png/revision/latest?cb=20220525165649"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Carmilla",
+    "skin": [
+      {"name": "Blood Queen", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero931-portrait.png/revision/latest?cb=20220525170145"},
+      {"name": "Wisteria Countess", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/b/b6/Hero932-portrait.png/revision/latest?cb=20220525170146"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Mathilda",
+    "skin": [
+      {"name": "Guiding Wind", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero1051-portrait.png/revision/latest?cb=20220525170354"},
+      {"name": "Unrestrained Delight", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1052-portrait.png/revision/latest?cb=20220525170355"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Floryn",
+    "skin": [
+      {"name": "Budding Hope", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero1091-portrait.png/revision/latest?cb=20220525170432"},
+      {"name": "Blossoming Spirit", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1092-portrait.png/revision/latest?cb=20220525170433"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Lolita",
+    "skin": [
+      {"name": "Steel Elf", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero151-portrait.png/revision/latest?cb=20220525164911"},
+      {"name": "Soldier in Training", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero152-portrait.png/revision/latest?cb=20220525164912"},
+      {"name": "Impish Trickster", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero153-portrait.png/revision/latest?cb=20220525164913"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Minotaur",
+    "skin": [
+      {"name": "Wrath of Minotaur", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/69/Hero191-portrait.png/revision/latest?cb=20220525164920"},
+      {"name": "Burst Fest", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero192-portrait.png/revision/latest?cb=20220525164921"},
+      {"name": "Sacred Hammer", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero193-portrait.png/revision/latest?cb=20220525164922"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Nana",
+    "skin": [
+      {"name": "Wind Fairy", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/10/Hero084-portrait.png/revision/latest?cb=20220525164809"},
+      {"name": "Mecha Baby", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero085-portrait.png/revision/latest?cb=20220525164810"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Faramis",
+    "skin": [
+      {"name": "Soul Binder", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero821-portrait.png/revision/latest?cb=20220525165912"},
+      {"name": "Nether Soul", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/49/Hero822-portrait.png/revision/latest?cb=20220525165913"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Chip",
+    "skin": [
+      {"name": "The Height of Cheekiness", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero1261-portrait.png/revision/latest?cb=20240319120011"},
+      {"name": "Bad Fox", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero1262-portrait.png/revision/latest?cb=20240319120012"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Gloo",
+    "skin": [
+      {"name": "Swamp Spirits", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero1081-portrait.png/revision/latest?cb=20220525170421"},
+      {"name": "Pastel Protector", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero1082-portrait.png/revision/latest?cb=20220525170422"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Atlas",
+    "skin": [
+      {"name": "Ocean Gale", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero941-portrait.png/revision/latest?cb=20220525170156"},
+      {"name": "Mecha Invasion", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero942-portrait.png/revision/latest?cb=20220525170157"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Khufra",
+    "skin": [
+      {"name": "Tyrant Despot", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero831-portrait.png/revision/latest?cb=20220525170001"},
+      {"name": "Dreadful", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2b/Hero832-portrait.png/revision/latest?cb=20220525170002"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Franco",
+    "skin": [
+      {"name": "Frozen Warrior", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero011-portrait.png/revision/latest?cb=20220525164608"},
+      {"name": "Western Hunter", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero012-portrait.png/revision/latest?cb=20220525164609"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Akai",
+    "skin": [
+      {"name": "Panda Warrior", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero071-portrait.png/revision/latest?cb=20220525164759"},
+      {"name": "Monk", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero072-portrait.png/revision/latest?cb=20220525164800"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Tigreal",
+    "skin": [
+      {"name": "Warrior of Dawn", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20220525164613"},
+      {"name": "Dark Guardian", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero022-portrait.png/revision/latest?cb=20220525164614"},
+      {"name": "Fallen Guard", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero023-portrait.png/revision/latest?cb=20220525164615"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Johnson",
+    "skin": [
+      {"name": "Fire Chief", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero031-portrait.png/revision/latest?cb=20220525164623"},
+      {"name": "Wreck King", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero032-portrait.png/revision/latest?cb=20220525164624"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Grock",
+    "skin": [
+      {"name": "Fortress Titan", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero521-portrait.png/revision/latest?cb=20220525165334"},
+      {"name": "Ice Golem", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/4b/Hero522-portrait.png/revision/latest?cb=20220525165335"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Hylos",
+    "skin": [
+      {"name": "Grand Warden", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero531-portrait.png/revision/latest?cb=20220525165344"},
+      {"name": "Iron Age", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero532-portrait.png/revision/latest?cb=20220525165345"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Uranus",
+    "skin": [
+      {"name": "Celestial Bastion", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/64/Hero621-portrait.png/revision/latest?cb=20220525165547"},
+      {"name": "Mecha Protector", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/75/Hero622-portrait.png/revision/latest?cb=20220525165548"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Belerick",
+    "skin": [
+      {"name": "Thorn of Despair", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/87/Hero681-portrait.png/revision/latest?cb=20220525165627"},
+      {"name": "Ancient Guard", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/98/Hero682-portrait.png/revision/latest?cb=20220525165628"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Gatotkaca",
+    "skin": [
+      {"name": "Mighty Legend", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/69/Hero591-portrait.png/revision/latest?cb=20220525165513"},
+      {"name": "Mighty Guardian", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero592-portrait.png/revision/latest?cb=20220525165514"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Baxia",
+    "skin": [
+      {"name": "Mystic Tortoise", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero871-portrait.png/revision/latest?cb=20220525170031"},
+      {"name": "Badass Roller", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero872-portrait.png/revision/latest?cb=20220525170032"}
+    ]
+  },
+  {
+    "role": "support",
+    "hero": "Edith",
+    "skin": [
+      {"name": "Ancient Guard", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero1111-portrait.png/revision/latest?cb=20220525170524"},
+      {"name": "Primal Wrath", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1112-portrait.png/revision/latest?cb=20220525170525"}
+    ]
+  }
+]

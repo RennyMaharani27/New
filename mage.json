@@ -1,0 +1,540 @@
+[
+  {
+    "role": "mage",
+    "hero": "Eudora",
+    "skin": [
+      {"name": "Lightning Sorceress", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero011-portrait.png/revision/latest?cb=20220525164603"},
+      {"name": "Flame Red Lips", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero012-portrait.png/revision/latest?cb=20220525164604"},
+      {"name": "Emerald Enchantress", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero013-portrait.png/revision/latest?cb=20220525164605"},
+      {"name": "Countess Scarlet", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero014-portrait.png/revision/latest?cb=20220525164606"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Alice",
+    "skin": [
+      {"name": "Bloody Mary", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero061-portrait.png/revision/latest?cb=20220525164754"},
+      {"name": "Wizardy Girl", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero062-portrait.png/revision/latest?cb=20220525164755"},
+      {"name": "Steam Glam", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2b/Hero063-portrait.png/revision/latest?cb=20220525164756"},
+      {"name": "Divine Owl", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/4b/Hero064-portrait.png/revision/latest?cb=20220525164757"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Nana",
+    "skin": [
+      {"name": "Fairy Feline", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero081-portrait.png/revision/latest?cb=20220525164806"},
+      {"name": "Graveyard Party", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero082-portrait.png/revision/latest?cb=20220525164807"},
+      {"name": "Slumber Party", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/94/Hero083-portrait.png/revision/latest?cb=20220525164808"},
+      {"name": "Wind Fairy", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/10/Hero084-portrait.png/revision/latest?cb=20220525164809"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Gord",
+    "skin": [
+      {"name": "Mystic Mage", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/12/Hero111-portrait.png/revision/latest?cb=20220525164846"},
+      {"name": "No. 1 Controller", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/92/Hero112-portrait.png/revision/latest?cb=20220525164847"},
+      {"name": "New Year", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero113-portrait.png/revision/latest?cb=20220525164848"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Kagura",
+    "skin": [
+      {"name": "Onmyouji Master", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2b/Hero161-portrait.png/revision/latest?cb=20220525164913"},
+      {"name": "Cherry Witch", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero162-portrait.png/revision/latest?cb=20220525164914"},
+      {"name": "Flower Season", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/31/Hero163-portrait.png/revision/latest?cb=20220525164915"},
+      {"name": "Summer Festival", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero164-portrait.png/revision/latest?cb=20220525164916"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Cyclops",
+    "skin": [
+      {"name": "Starsoul Magician", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero211-portrait.png/revision/latest?cb=20220525164916"},
+      {"name": "Deep Sea Rescuer", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/f/f2/Hero212-portrait.png/revision/latest?cb=20220525164917"},
+      {"name": "S.A.B.E.R. Savior", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero213-portrait.png/revision/latest?cb=20220525164918"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Aurora",
+    "skin": [
+      {"name": "Northern Vale", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero221-portrait.png/revision/latest?cb=20220525164919"},
+      {"name": "Heartbreak Empress", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/61/Hero222-portrait.png/revision/latest?cb=20220525164920"},
+      {"name": "Aquarius", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero223-portrait.png/revision/latest?cb=20220525164921"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Vexana",
+    "skin": [
+      {"name": "Shroud of the Dead", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero241-portrait.png/revision/latest?cb=20220525164925"},
+      {"name": "Circus Clown", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero242-portrait.png/revision/latest?cb=20220525164926"},
+      {"name": "Twisted Fairytale", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero243-portrait.png/revision/latest?cb=20220525164927"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Odette",
+    "skin": [
+      {"name": "Swan Princess", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero531-portrait.png/revision/latest?cb=20220525165345"},
+      {"name": "Black Swan", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero532-portrait.png/revision/latest?cb=20220525165346"},
+      {"name": "Virgo", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero533-portrait.png/revision/latest?cb=20220525165347"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Harley",
+    "skin": [
+      {"name": "Great Inventor", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero541-portrait.png/revision/latest?cb=20220525165354"},
+      {"name": "Royal Magician", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero542-portrait.png/revision/latest?cb=20220525165355"},
+      {"name": "Shaman", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero543-portrait.png/revision/latest?cb=20220525165356"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Pharsa",
+    "skin": [
+      {"name": "Wings of Vengeance", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/30/Hero561-portrait.png/revision/latest?cb=20220525165420"},
+      {"name": "Peafowl's Dance", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1b/Hero562-portrait.png/revision/latest?cb=20220525165421"},
+      {"name": "Empress Phoenix", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/48/Hero563-portrait.png/revision/latest?cb=20220525165422"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Chang'e",
+    "skin": [
+      {"name": "Lunar Magic", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/64/Hero731-portrait.png/revision/latest?cb=20220525165728"},
+      {"name": "Moon Palace Immortal", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero732-portrait.png/revision/latest?cb=20220525165729"},
+      {"name": "Crimson Moon", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/91/Hero733-portrait.png/revision/latest?cb=20220525165730"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Vale",
+    "skin": [
+      {"name": "Windtalker", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero761-portrait.png/revision/latest?cb=20220525165802"},
+      {"name": "Kannagi", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero762-portrait.png/revision/latest?cb=20220525165803"},
+      {"name": "Storm Chaser", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/00/Hero763-portrait.png/revision/latest?cb=20220525165804"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Valir",
+    "skin": [
+      {"name": "Son of Flames", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/65/Hero771-portrait.png/revision/latest?cb=20220525165817"},
+      {"name": "Pale Flame", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/37/Hero772-portrait.png/revision/latest?cb=20220525165818"},
+      {"name": "Demonlord", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/09/Hero773-portrait.png/revision/latest?cb=20220525165819"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Lylia",
+    "skin": [
+      {"name": "Little Witch", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/d/df/Hero851-portrait.png/revision/latest?cb=20220525170012"},
+      {"name": "Midnight Owl", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/42/Hero852-portrait.png/revision/latest?cb=20220525170013"},
+      {"name": "Haunted Doll", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/90/Hero853-portrait.png/revision/latest?cb=20220525170014"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Cecilion",
+    "skin": [
+      {"name": "Prince of Darkness", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/82/Hero921-portrait.png/revision/latest?cb=20220525170134"},
+      {"name": "The Illusionist", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero922-portrait.png/revision/latest?cb=20220525170135"},
+      {"name": "Crimson Wings", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero923-portrait.png/revision/latest?cb=20220525170136"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Luo Yi",
+    "skin": [
+      {"name": "Yin-Yang Sage", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/43/Hero961-portrait.png/revision/latest?cb=20220525170223"},
+      {"name": "Tenko", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero962-portrait.png/revision/latest?cb=20220525170224"},
+      {"name": "Elysium Guardian", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero963-portrait.png/revision/latest?cb=20220525170225"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Yve",
+    "skin": [
+      {"name": "Astrowarden", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/48/Hero1061-portrait.png/revision/latest?cb=20220525170405"},
+      {"name": "Ruins Protector", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero1062-portrait.png/revision/latest?cb=20220525170406"},
+      {"name": "Winter Warden", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero1063-portrait.png/revision/latest?cb=20220525170407"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Xavier",
+    "skin": [
+      {"name": "Defier of Light", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/30/Hero1131-portrait.png/revision/latest?cb=20220525170545"},
+      {"name": "Mystic Warlock", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero1132-portrait.png/revision/latest?cb=20220525170546"},
+      {"name": "Spectral Agent", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero1133-portrait.png/revision/latest?cb=20220525170547"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Zhask",
+    "skin": [
+      {"name": "Dominance of Insects", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero561-portrait.png/revision/latest?cb=20220525165429"},
+      {"name": "Death Omen", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/49/Hero562-portrait.png/revision/latest?cb=20220525165430"},
+      {"name": "Extraterrestrial", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/00/Hero563-portrait.png/revision/latest?cb=20220525165431"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Zhuxin",
+    "skin": [
+      {"name": "Sorceress of Dreams", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1291-portrait.png/revision/latest?cb=20240703120011"},
+      {"name": "Luminous Dreams", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero1292-portrait.png/revision/latest?cb=20240703120052"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Novaria",
+    "skin": [
+      {"name": "Starseer", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/44/Hero1211-portrait.png/revision/latest?cb=20230621120044"},
+      {"name": "Cosmic Echo", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/83/Hero1212-portrait.png/revision/latest?cb=20230621120114"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Vexana",
+    "skin": [
+      {"name": "Curse Weaver", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero241-portrait.png/revision/latest?cb=20220525164925"},
+      {"name": "Queen of Necrokeep", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero242-portrait.png/revision/latest?cb=20220525164926"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Lunox",
+    "skin": [
+      {"name": "Twilight Goddess", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/26/Hero671-portrait.png/revision/latest?cb=20220525165610"},
+      {"name": "Cosmic Harmony", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero672-portrait.png/revision/latest?cb=20220525165611"},
+      {"name": "Ash Blossom", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero673-portrait.png/revision/latest?cb=20220525165612"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Esmeralda",
+    "skin": [
+      {"name": "Frostmoon Enchantress", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2b/Hero811-portrait.png/revision/latest?cb=20220525165901"},
+      {"name": "Poison Rose", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero812-portrait.png/revision/latest?cb=20220525165902"},
+      {"name": "Blazing Shadow", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero813-portrait.png/revision/latest?cb=20220525165903"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Lilya",
+    "skin": [
+      {"name": "Little Witch", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/d/df/Hero851-portrait.png/revision/latest?cb=20220525170012"},
+      {"name": "Midnight Owl", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/42/Hero852-portrait.png/revision/latest?cb=20220525170013"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Faramis",
+    "skin": [
+      {"name": "Soul of the World", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero821-portrait.png/revision/latest?cb=20220525165912"},
+      {"name": "Graveyard Bishop", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/49/Hero822-portrait.png/revision/latest?cb=20220525165913"},
+      {"name": "Rebirth Soul", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero823-portrait.png/revision/latest?cb=20220525165914"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Kadita",
+    "skin": [
+      {"name": "Ocean Goddess", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero741-portrait.png/revision/latest?cb=20220525165740"},
+      {"name": "White Robin", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero742-portrait.png/revision/latest?cb=20220525165741"},
+      {"name": "Atlantis Princess", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero743-portrait.png/revision/latest?cb=20220525165742"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Selena",
+    "skin": [
+      {"name": "Wisp of Shadow", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero611-portrait.png/revision/latest?cb=20220525165535"},
+      {"name": "Curse of Vine", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero612-portrait.png/revision/latest?cb=20220525165537"},
+      {"name": "Lady Vengeance", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero613-portrait.png/revision/latest?cb=20220525165538"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Julian",
+    "skin": [
+      {"name": "Scarlet Raven", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cb=20220525170638"},
+      {"name": "Silent Edge", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1162-portrait.png/revision/latest?cb=20220525170651"},
+      {"name": "Megumi Fushiguro", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1163-portrait.png/revision/latest?cb=20230212035450"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Aamon",
+    "skin": [
+      {"name": "Noble Phantasm", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero1101-portrait.png/revision/latest?cb=20220525170513"},
+      {"name": "Dark Puppeteer", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero1102-portrait.png/revision/latest?cb=20220525170514"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Valentina",
+    "skin": [
+      {"name": "Prophetess of Night", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero1121-portrait.png/revision/latest?cb=20220525170535"},
+      {"name": "Crimson Vow", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero1122-portrait.png/revision/latest?cb=20220525170536"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Luo Yi",
+    "skin": [
+      {"name": "Elysium Guardian", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero963-portrait.png/revision/latest?cb=20220525170225"},
+      {"name": "Yin-Yang Mage", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/43/Hero961-portrait.png/revision/latest?cb=20220525170223"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Yve",
+    "skin": [
+      {"name": "Winter Warden", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero1063-portrait.png/revision/latest?cb=20220525170407"},
+      {"name": "Stargazer", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/48/Hero1061-portrait.png/revision/latest?cb=20220525170405"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Harith",
+    "skin": [
+      {"name": "Time Traveler", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/65/Hero721-portrait.png/revision/latest?cb=20220525165713"},
+      {"name": "Fashion Expert", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero722-portrait.png/revision/latest?cb=20220525165714"},
+      {"name": "Stardust", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero723-portrait.png/revision/latest?cb=20220525165715"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Kimmy",
+    "skin": [
+      {"name": "Chemical Master", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero711-portrait.png/revision/latest?cb=20220525165658"},
+      {"name": "Bio Frontier", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero712-portrait.png/revision/latest?cb=20220525165659"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Gusion",
+    "skin": [
+      {"name": "Holy Blade", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/16/Hero601-portrait.png/revision/latest?cb=20220525165524"},
+      {"name": "Cyber Ops", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/92/Hero602-portrait.png/revision/latest?cb=20220525165525"},
+      {"name": "Hairstylist", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero603-portrait.png/revision/latest?cb=20220525165526"},
+      {"name": "K'", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero604-portrait.png/revision/latest?cb=20220525165527"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Guinevere",
+    "skin": [
+      {"name": "Ms. Violet", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero781-portrait.png/revision/latest?cb=20220525165828"},
+      {"name": "Lotus", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero782-portrait.png/revision/latest?cb=20220525165829"},
+      {"name": "Lady Crane", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero783-portrait.png/revision/latest?cb=20220525165830"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Lunox",
+    "skin": [
+      {"name": "Ash Blossom", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero673-portrait.png/revision/latest?cb=20220525165612"},
+      {"name": "Libra", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero674-portrait.png/revision/latest?cb=20220525165613"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Esmeralda",
+    "skin": [
+      {"name": "Blazing Shadow", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero813-portrait.png/revision/latest?cb=20220525165903"},
+      {"name": "Rudolph", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero814-portrait.png/revision/latest?cb=20220525165904"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Harley",
+    "skin": [
+      {"name": "Dream Caster", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero544-portrait.png/revision/latest?cb=20220525165357"},
+      {"name": "Great Inventor", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero541-portrait.png/revision/latest?cb=20220525165354"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Kagura",
+    "skin": [
+      {"name": "Water Lily", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2b/Hero165-portrait.png/revision/latest?cb=20220525164917"},
+      {"name": "Exorcist", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero166-portrait.png/revision/latest?cb=20220525164918"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Aurora",
+    "skin": [
+      {"name": "Frost Goddess", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero221-portrait.png/revision/latest?cb=20220525164919"},
+      {"name": "Frost Bride", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/61/Hero222-portrait.png/revision/latest?cb=20220525164920"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Cecilion",
+    "skin": [
+      {"name": "Stargazer", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/82/Hero921-portrait.png/revision/latest?cb=20220525170134"},
+      {"name": "Crimson Wings", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero923-portrait.png/revision/latest?cb=20220525170136"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Pharsa",
+    "skin": [
+      {"name": "Enchanting Witch", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/30/Hero561-portrait.png/revision/latest?cb=20220525165420"},
+      {"name": "Empress Phoenix", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/48/Hero563-portrait.png/revision/latest?cb=20220525165422"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Vale",
+    "skin": [
+      {"name": "Canyon Explorer", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero764-portrait.png/revision/latest?cb=20220525165805"},
+      {"name": "Blizzard Storm", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero765-portrait.png/revision/latest?cb=20220525165806"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Lylia",
+    "skin": [
+      {"name": "Haunted Doll", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/90/Hero853-portrait.png/revision/latest?cb=20220525170014"},
+      {"name": "Spiritual Witch", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/42/Hero854-portrait.png/revision/latest?cb=20220525170015"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Chang'e",
+    "skin": [
+      {"name": "Crimson Moon", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/91/Hero733-portrait.png/revision/latest?cb=20220525165730"},
+      {"name": "Vine Cradle", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero734-portrait.png/revision/latest?cb=20220525165731"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Valir",
+    "skin": [
+      {"name": "Draconic Flame", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/09/Hero773-portrait.png/revision/latest?cb=20220525165819"},
+      {"name": "Leo", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/37/Hero774-portrait.png/revision/latest?cb=20220525165820"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Zhask",
+    "skin": [
+      {"name": "Star Swarmer", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/00/Hero563-portrait.png/revision/latest?cb=20220525165431"},
+      {"name": "Cancer", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/49/Hero564-portrait.png/revision/latest?cb=20220525165432"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Kimmy",
+    "skin": [
+      {"name": "Frost Wing", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero713-portrait.png/revision/latest?cb=20220525165700"},
+      {"name": "Bio Frontier", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero712-portrait.png/revision/latest?cb=20220525165659"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Harith",
+    "skin": [
+      {"name": "Time Storm", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero724-portrait.png/revision/latest?cb=20220525165716"},
+      {"name": "EDM", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero725-portrait.png/revision/latest?cb=20220525165717"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Kadita",
+    "skin": [
+      {"name": "White Robin", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero742-portrait.png/revision/latest?cb=20220525165741"},
+      {"name": "Neon Shores", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero744-portrait.png/revision/latest?cb=20220525165743"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Faramis",
+    "skin": [
+      {"name": "Scorpio", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero824-portrait.png/revision/latest?cb=20220525165915"},
+      {"name": "Soul Keeper", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero825-portrait.png/revision/latest?cb=20220525165916"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Lunox",
+    "skin": [
+      {"name": "Cosmic Harmony", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero672-portrait.png/revision/latest?cb=20220525165611"},
+      {"name": "Eyes of Eternity", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero675-portrait.png/revision/latest?cb=20220525165614"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Luo Yi",
+    "skin": [
+      {"name": "Tenko", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero962-portrait.png/revision/latest?cb=20220525170224"},
+      {"name": "Oracle of Frost", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero964-portrait.png/revision/latest?cb=20220525170226"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Yve",
+    "skin": [
+      {"name": "Stargazer Virgo", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/48/Hero1061-portrait.png/revision/latest?cb=20220525170405"},
+      {"name": "Rising Nova", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero1062-portrait.png/revision/latest?cb=20220525170406"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Xavier",
+    "skin": [
+      {"name": "Ember of Fate", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/30/Hero1131-portrait.png/revision/latest?cb=20220525170545"},
+      {"name": "Spectral Ash", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero1133-portrait.png/revision/latest?cb=20220525170547"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Novaria",
+    "skin": [
+      {"name": "Starry Night", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/44/Hero1211-portrait.png/revision/latest?cb=20230621120044"},
+      {"name": "Dream Echo", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/83/Hero1212-portrait.png/revision/latest?cb=20230621120114"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Zhuxin",
+    "skin": [
+      {"name": "Forbidden Sorceress", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1291-portrait.png/revision/latest?cb=20240703120011"},
+      {"name": "Mystic Empress", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero1292-portrait.png/revision/latest?cb=20240703120052"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Vexana",
+    "skin": [
+      {"name": "Twisted Fairytale", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero243-portrait.png/revision/latest?cb=20220525164927"},
+      {"name": "Circus Empress", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero242-portrait.png/revision/latest?cb=20220525164926"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Eudora",
+    "skin": [
+      {"name": "Emerald Enchantress", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero013-portrait.png/revision/latest?cb=20220525164605"},
+      {"name": "Lady of Lightning", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero011-portrait.png/revision/latest?cb=20220525164603"}
+    ]
+  },
+  {
+    "role": "mage",
+    "hero": "Gord",
+    "skin": [
+      {"name": "Professor of Hell", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/12/Hero111-portrait.png/revision/latest?cb=20220525164846"},
+      {"name": "Conquest of Paradise", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/92/Hero112-portrait.png/revision/latest?cb=20220525164847"}
+    ]
+  }
+]

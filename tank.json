@@ -1,0 +1,211 @@
+[
+  {
+    "role": "tank",
+    "hero": "Franco",
+    "skin": [
+      {"name": "Frozen Warrior", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero101-portrait.png/revision/latest?cb=20220525164519"},
+      {"name": "Locomotive", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero104-portrait.png/revision/latest?cb=20220525164525"},
+      {"name": "Apocalypse", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero103-portrait.png/revision/latest?cb=20220525164524"},
+      {"name": "Wheatfield Nightmare", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero105-portrait.png/revision/latest?cb=20220525164526"},
+      {"name": "Masterchef", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero102-portrait.png/revision/latest?cb=20220525164523"},
+      {"name": "Blazing Axe", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero107-portrait.png/revision/latest?cb=20220525164528"}
+    ]
+  },
+  {
+    "role": "tank",
+    "hero": "Johnson",
+    "skin": [
+      {"name": "Fire Chief", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero111-portrait.png/revision/latest?cb=20220525164535"},
+      {"name": "Wreck King", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/02/Hero115-portrait.png/revision/latest?cb=20220525164538"},
+      {"name": "Rhino", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/89/Hero113-portrait.png/revision/latest?cb=20220525164537"},
+      {"name": "S.A.B.E.R. Automata", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero116-portrait.png/revision/latest?cb=20220525164539"},
+      {"name": "Death Ride", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero117-portrait.png/revision/latest?cb=20220525164540"}
+    ]
+  },
+  {
+    "role": "tank",
+    "hero": "Khufra",
+    "skin": [
+      {"name": "Desert Tyrant", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero781-portrait.png/revision/latest?cb=20220525165822"},
+      {"name": "Apophis", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/d/db/Hero783-portrait.png/revision/latest?cb=20220525165826"},
+      {"name": "Volcanic Overlord", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero785-portrait.png/revision/latest?cb=20220525165828"},
+      {"name": "Dreadful Clown", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero786-portrait.png/revision/latest?cb=20220525165829"},
+      {"name": "Cursed Scroll", "img": "https://github.com/lanz132/NEWIMG/raw/main/Khufra%20epic.png"}
+    ]
+  },
+  {
+    "role": "tank",
+    "hero": "Uranus",
+    "skin": [
+      {"name": "Aethereal Defender", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero591-portrait.png/revision/latest?cb=20220525165512"},
+      {"name": "Pinball Machine", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero595-portrait.png/revision/latest?cb=20220525165518"},
+      {"name": "Mech Protector", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero593-portrait.png/revision/latest?cb=20220525165516"},
+      {"name": "Celestial Bastion", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero596-portrait.png/revision/latest?cb=20220525165519"}
+    ]
+  },
+  {
+    "role": "tank",
+    "hero": "Grock",
+    "skin": [
+      {"name": "Fortress Titan", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/a/a8/Grock_fortress.jpg/revision/latest?cb=20210128181344"},
+      {"name": "Iceland Golem", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/f/f9/Grock_ice.jpg/revision/latest?cb=20210128181344"},
+      {"name": "Mech Protector", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero106-portrait.png/revision/latest?cb=20220525164527"}
+    ]
+  },
+  {
+    "role": "tank",
+    "hero": "Belerick",
+    "skin": [
+      {"name": "Guard of Nature", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Belerick.jpg/revision/latest?cb=20210128181344"},
+      {"name": "The Deep One", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/5e/Belerick_Deep.jpg/revision/latest?cb=20210128181344"},
+      {"name": "Arbiter of Stars", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero706-portrait.png/revision/latest?cb=20250307123907"}
+    ]
+  },
+  {
+    "role": "tank",
+    "hero": "Akai",
+    "skin": [
+      {"name": "Monk", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero163-portrait.png/revision/latest?cb=20220525164653"},
+      {"name": "Akazonae Samurai", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero165-portrait.png/revision/latest?cb=20220525164655"},
+      {"name": "Imperial Assasin", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero167-portrait.png/revision/latest?cb=20220525164657"}
+    ]
+  }
+],
+  {
+    "role": "tank",
+    "hero": "Hylos",
+    "skin": [
+      {"name": "Nature's Incarnation", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero621-portrait.png/revision/latest?cb=20220525165542"},
+      {"name": "Abyssal Shroud", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero623-portrait.png/revision/latest?cb=20220525165544"},
+      {"name": "Mysterious Creature", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/26/Hero624-portrait.png/revision/latest?cb=20220525165545"}
+    ]
+  },
+  {
+    "role": "tank",
+    "hero": "Atlas",
+    "skin": [
+      {"name": "Ocean Gladiator", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero881-portrait.png/revision/latest?cb=20220525165951"},
+      {"name": "Mecha Invasion", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero882-portrait.png/revision/latest?cb=20220525165952"},
+      {"name": "Dark Sentry", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero884-portrait.png/revision/latest?cb=20220525165955"}
+    ]
+  },
+  {
+    "role": "tank",
+    "hero": "Hilda",
+    "skin": [
+      {"name": "Power of Megalith", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero351-portrait.png/revision/latest?cb=20220525165048"},
+      {"name": "Sacred Guard", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/05/Hero354-portrait.png/revision/latest?cb=20220525165053"},
+      {"name": "Aries", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero355-portrait.png/revision/latest?cb=20230317100645"},
+      {"name": "Flower of the Wastes", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/94/Hero353-portrait.png/revision/latest?cb=20220525165052"}
+    ]
+  },
+  {
+    "role": "tank",
+    "hero": "Gatotkaca",
+    "skin": [
+      {"name": "Iron Steel", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/90/Iron_Steel.jpg/revision/latest/scale-to-width-down/250?cb=20211222023419"},
+      {"name": "Sentinel", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/02/Hero414-portrait.png/revision/latest?cb=20241201052810"},
+      {"name": "Tide Preserver", "img": "https://raw.githubusercontent.com/lanz132/NEWIMG/main/gatotepic.jpg"},
+      {"name": "Nutcracker Monarch", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/30/Hero418-portrait.png/revision/latest?cb=20240811092808"}
+    ]
+  },
+  {
+    "role": "tank",
+    "hero": "Minotaur",
+    "skin": [
+      {"name": "Son of Minos", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero191-portrait.png/revision/latest?cb=20220525164730"},
+      {"name": "Sacred Hammer", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero194-portrait.png/revision/latest?cb=20220525164735"},
+      {"name": "Taurus", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/16/Hero195-portrait.png/revision/latest?cb=20230316133655"}
+    ]
+  },
+  {
+    "role": "tank",
+    "hero": "Baxia",
+    "skin": [
+      {"name": "Mystic Tortoise", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero821-portrait.png/revision/latest?cb=20220525165822"},
+      {"name": "Badass Roller", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/79/Hero824-portrait.png/revision/latest?cb=20220525165827"},
+      {"name": "Black Tortoise", "img": "https://github.com/lanz132/Img/raw/main/baxia.jpg"}
+    ]
+  },
+  {
+    "role": "tank",
+    "hero": "Lolita",
+    "skin": [
+      {"name": "Steel Elf", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/44/Lolita.jpg/revision/latest?cb=20210128181344"},
+      {"name": "Genki Slam", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/a/a8/Lolita_Genki.jpg/revision/latest?cb=20210128181344"},
+      {"name": "Impish Trickster", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero203-portrait.png/revision/latest?cb=20220525164742"},
+      {"name": "Soldier in Training", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/75/Hero202-portrait.png/revision/latest?cb=20220525164741"}
+    ]
+  },
+  {
+    "role": "tank",
+    "hero": "Balmond",
+    "skin": [
+      {"name": "Bloody Beast", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20220525164249"},
+      {"name": "Ghoul's Fury", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero023-portrait.png/revision/latest?cb=20220525164302"},
+      {"name": "Savage Hunter", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero024-portrait.png/revision/latest?cb=20220525164306"},
+      {"name": "God of Mountains", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/01/Hero025-portrait.png/revision/latest?cb=20220525164309"},
+      {"name": "Infernal Warlord", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest?cb=20230623125721"}
+    ]
+  },
+  {
+    "role": "tank",
+    "hero": "Tigreal",
+    "skin": [
+      {"name": "Warrior Of Dawn", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero061-portrait.png/revision/latest?cb=20220525164412"},
+      {"name": "Lightborn Defender", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero065-portrait.png/revision/latest?cb=20220525164423"},
+      {"name": "Fallen Guard", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero063-portrait.png/revision/latest?cb=20220525164421"},
+      {"name": "Wyrmslayer", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero064-portrait.png/revision/latest?cb=20220525164422"},
+      {"name": "Gold Baron", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero067-portrait.png/revision/latest?cb=20220525164424"},
+      {"name": "Galactic Marshal", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero068-portrait.png/revision/latest?cb=20220802033731"}
+    ]
+  },
+  {
+    "role": "tank",
+    "hero": "Barats",
+    "skin": [
+      {"name": "Dino Rider", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero991-portrait.png/revision/latest?cb=20220525170304"},
+      {"name": "Armored Lizard", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/84/Hero992-portrait.png/revision/latest?cb=20220525170307"},
+      {"name": "Toy Rex", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/23/Hero993-portrait.png/revision/latest?cb=20220525170308"},
+      {"name": "Baratstein", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero994-portrait.png/revision/latest?cb=20220525170309"},
+      {"name": "War Chief", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero995-portrait.png/revision/latest?cb=20221111133621"},
+      {"name": "Sunken Predator", "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Barats%20epic.png"}
+    ]
+  },
+  {
+    "role": "tank",
+    "hero": "Gloo",
+    "skin": [
+      {"name": "Swamp Spirits", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/47/Hero1111-portrait.png/revision/latest?cb=20220525171947"},
+      {"name": "Verdant Enchanter", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1112-portrait.png/revision/latest?cb=20220525170534"},
+      {"name": "Jellyman", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero1113-portrait.png/revision/latest?cb=20230409114636"}
+    ]
+  },
+  {
+    "role": "tank",
+    "hero": "Edith",
+    "skin": [
+      {"name": "Ancient Guard", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/47/Hero1111-portrait.png/revision/latest?cb=20220525171947"},
+      {"name": "Celestial Safeguard", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1112-portrait.png/revision/latest?cb=20220525170534"},
+      {"name": "Red Bastion", "img": "https://github.com/lanz132/NEWIMG/raw/main/edi.jpg"}
+    ]
+  },
+  {
+    "role": "tank",
+    "hero": "Fredrinn",
+    "skin": [
+      {"name": "Rogue Appraiser", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20220630130119"},
+      {"name": "Regal Renegade", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero1172-portrait.png/revision/latest?cb=20220807093441"},
+      {"name": "Neobeast", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6a/Fredrinn_Neobeast.jpg/revision/latest?cb=20210128181344"}
+    ]
+  },
+  {
+    "role": "tank",
+    "hero": "Chip",
+    "skin": [
+      {"name": "Phase Technician", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/30/Hero1281-portrait.png/revision/latest?cb=20220525170534"},
+      {"name": "Digital Circus", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1282-portrait.png/revision/latest?cb=20220525170534"},
+      {"name": "Portal Guardian", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/47/Hero1283-portrait.png/revision/latest?cb=20220525171947"}
+    ]
+  }
+]

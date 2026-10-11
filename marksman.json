@@ -1,0 +1,242 @@
+[
+  {
+    "role": "marksman",
+    "hero": "Miya",
+    "skin": [
+      {"name": "Moonlight Archer", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/96/Hero011-portrait.png/revision/latest?cb=20220525164559"},
+      {"name": "Honor", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/69/Hero012-portrait.png/revision/latest?cb=20220525164600"},
+      {"name": "Burning Bow", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/84/Hero013-portrait.png/revision/latest?cb=20220525164601"},
+      {"name": "Captain Thorns", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/23/Hero014-portrait.png/revision/latest?cb=20220525164602"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Bruno",
+    "skin": [
+      {"name": "The Protector", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero031-portrait.png/revision/latest?cb=20220525164616"},
+      {"name": "Best DJ", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero032-portrait.png/revision/latest?cb=20220525164617"},
+      {"name": "Street Football", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero033-portrait.png/revision/latest?cb=20220525164618"},
+      {"name": "Firebolt", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/01/Hero034-portrait.png/revision/latest?cb=20220525164619"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Clint",
+    "skin": [
+      {"name": "West Justice", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/73/Hero041-portrait.png/revision/latest?cb=20220525164626"},
+      {"name": "Rock n Roll", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero042-portrait.png/revision/latest?cb=20220525164627"},
+      {"name": "Sun n Sand", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero043-portrait.png/revision/latest?cb=20220525164628"},
+      {"name": "Guns and Roses", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero044-portrait.png/revision/latest?cb=20220525164629"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Layla",
+    "skin": [
+      {"name": "Energy Gun", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/75/Hero021-portrait.png/revision/latest?cb=20220525164610"},
+      {"name": "Green Flash", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero022-portrait.png/revision/latest?cb=20220525164611"},
+      {"name": "Bunny Babe", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/68/Hero023-portrait.png/revision/latest?cb=20220525164612"},
+      {"name": "Cannon and Roses", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero024-portrait.png/revision/latest?cb=20220525164613"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Yi Sun-shin",
+    "skin": [
+      {"name": "Major General", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero311-portrait.png/revision/latest?cb=20220525164939"},
+      {"name": "Fleet Warden", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero313-portrait.png/revision/latest?cb=20220525164941"},
+      {"name": "Lone Hero", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero312-portrait.png/revision/latest?cb=20220525164940"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Moskov",
+    "skin": [
+      {"name": "Spear of Quiescence", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero321-portrait.png/revision/latest?cb=20220525164944"},
+      {"name": "Yasha", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/42/Hero322-portrait.png/revision/latest?cb=20220525164945"},
+      {"name": "Snake Eye Commander", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/54/Hero323-portrait.png/revision/latest?cb=20220525164946"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Karrie",
+    "skin": [
+      {"name": "Speedy Lightwheel", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/24/Hero511-portrait.png/revision/latest?cb=20220525165324"},
+      {"name": "Dragon Queen", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero512-portrait.png/revision/latest?cb=20220525165325"},
+      {"name": "Jester", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero513-portrait.png/revision/latest?cb=20220525165326"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Irithel",
+    "skin": [
+      {"name": "Jungle Heart", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero521-portrait.png/revision/latest?cb=20220525165335"},
+      {"name": "Nightarrow", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/13/Hero522-portrait.png/revision/latest?cb=20220525165336"},
+      {"name": "Aries", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero523-portrait.png/revision/latest?cb=20220525165337"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Lesley",
+    "skin": [
+      {"name": "Deadly Sniper", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero621-portrait.png/revision/latest?cb=20220525165546"},
+      {"name": "Hawk-eyed Sniper", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero623-portrait.png/revision/latest?cb=20220525165548"},
+      {"name": "Cheergunner", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero624-portrait.png/revision/latest?cb=20220525165549"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Hanabi",
+    "skin": [
+      {"name": "Scarlet Flower", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/62/Hero611-portrait.png/revision/latest?cb=20220525165524"},
+      {"name": "Fiery Moth", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/10/Hero612-portrait.png/revision/latest?cb=20220525165525"},
+      {"name": "Rakshesha", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/29/Hero613-portrait.png/revision/latest?cb=20220525165526"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Claude",
+    "skin": [
+      {"name": "Master Thief", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/91/Hero681-portrait.png/revision/latest?cb=20220525165620"},
+      {"name": "Plunderous Pirate", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero682-portrait.png/revision/latest?cb=20220525165621"},
+      {"name": "Mecha Dragon", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero683-portrait.png/revision/latest?cb=20220525165622"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Kimmy",
+    "skin": [
+      {"name": "Chemical Explosion", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero711-portrait.png/revision/latest?cb=20220525165658"},
+      {"name": "Bio Frontier", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero712-portrait.png/revision/latest?cb=20220525165659"},
+      {"name": "Frost Wing", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero713-portrait.png/revision/latest?cb=20220525165700"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Granger",
+    "skin": [
+      {"name": "Death Sonata", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/10/Hero801-portrait.png/revision/latest?cb=20220525165851"},
+      {"name": "Doomsday Terminator", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/84/Hero802-portrait.png/revision/latest?cb=20220525165852"},
+      {"name": "Lightborn Overrider", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero803-portrait.png/revision/latest?cb=20220525165853"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Wanwan",
+    "skin": [
+      {"name": "Agile Tiger", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/57/Hero891-portrait.png/revision/latest?cb=20220525170103"},
+      {"name": "Darting Star", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero892-portrait.png/revision/latest?cb=20220525170104"},
+      {"name": "Shoujo Commander", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero893-portrait.png/revision/latest?cb=20220525170105"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Popol and Kupa",
+    "skin": [
+      {"name": "Icefield Companions", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero931-portrait.png/revision/latest?cb=20220525170148"},
+      {"name": "Snowman Companions", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero932-portrait.png/revision/latest?cb=20220525170149"},
+      {"name": "Spirit of the Brush", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero933-portrait.png/revision/latest?cb=20220525170150"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Brody",
+    "skin": [
+      {"name": "Raging Bull", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero1011-portrait.png/revision/latest?cb=20220525170325"},
+      {"name": "Lone Star", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1012-portrait.png/revision/latest?cb=20220525170326"},
+      {"name": "S.T.U.N. Brody", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero1013-portrait.png/revision/latest?cb=20220525170327"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Beatrix",
+    "skin": [
+      {"name": "Dawnbreak Soldier", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/11/Hero1081-portrait.png/revision/latest?cb=20220525170438"},
+      {"name": "X Factor", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1082-portrait.png/revision/latest?cb=20220525170439"},
+      {"name": "Light Chaser", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero1083-portrait.png/revision/latest?cb=20220525170440"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Natan",
+    "skin": [
+      {"name": "Time Wielder", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero1111-portrait.png/revision/latest?cb=20220525170524"},
+      {"name": "Space-Time Walker", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero1112-portrait.png/revision/latest?cb=20220525170525"},
+      {"name": "Temporal Anomaly", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero1113-portrait.png/revision/latest?cb=20220525170526"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Melissa",
+    "skin": [
+      {"name": "Needle Wound", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero1141-portrait.png/revision/latest?cb=20220525170559"},
+      {"name": "Jokerina", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero1142-portrait.png/revision/latest?cb=20220525170600"},
+      {"name": "Starlight Melissa", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero1143-portrait.png/revision/latest?cb=20220525170601"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Ixia",
+    "skin": [
+      {"name": "Arclight Outlaw", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero1201-portrait.png/revision/latest?cb=20230708120044"},
+      {"name": "Volt Counter", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/83/Hero1202-portrait.png/revision/latest?cb=20230708120114"},
+      {"name": "Dawn Reveler", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1203-portrait.png/revision/latest?cb=20230708120145"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Bruno",
+    "skin": [
+      {"name": "The Falcon", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero031-portrait.png/revision/latest?cb=20220525164616"},
+      {"name": "Street Hype", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero032-portrait.png/revision/latest?cb=20220525164617"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Clint",
+    "skin": [
+      {"name": "Shadow Oath", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/73/Hero041-portrait.png/revision/latest?cb=20220525164626"},
+      {"name": "Operator Clause", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero042-portrait.png/revision/latest?cb=20220525164627"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Miya",
+    "skin": [
+      {"name": "Captain Thorns", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/23/Hero014-portrait.png/revision/latest?cb=20220525164602"},
+      {"name": "Holy Archer", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/96/Hero011-portrait.png/revision/latest?cb=20220525164559"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Layla",
+    "skin": [
+      {"name": "Bunny Babe", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/68/Hero023-portrait.png/revision/latest?cb=20220525164612"},
+      {"name": "Blazing Gun", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/75/Hero021-portrait.png/revision/latest?cb=20220525164610"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Karrie",
+    "skin": [
+      {"name": "Hawkwatch", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/24/Hero511-portrait.png/revision/latest?cb=20220525165324"},
+      {"name": "Speedy Lightwheel", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero512-portrait.png/revision/latest?cb=20220525165325"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Moskov",
+    "skin": [
+      {"name": "Abyss Spectre", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero321-portrait.png/revision/latest?cb=20220525164944"},
+      {"name": "Blood Spear", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/42/Hero322-portrait.png/revision/latest?cb=20220525164945"}
+    ]
+  },
+  {
+    "role": "marksman",
+    "hero": "Granger",
+    "skin": [
+      {"name": "Hell Soul", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/10/Hero801-portrait.png/revision/latest?cb=20220525165851"},
+      {"name": "Biosoldier", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/84/Hero802-portrait.png/revision/latest?cb=20220525165852"}
+    ]
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "role": "assassin",
+    "hero": "Saber",
+    "skin": [
+      {"name": "Regulator", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/52/Hero051-portrait.png/revision/latest?cb=20220525165257"},
+      {"name": "Force Warrior", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/94/Hero052-portrait.png/revision/latest?cb=20220525165258"},
+      {"name": "Codename Storm", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/35/Hero053-portrait.png/revision/latest?cb=20220525165259"},
+      {"name": "Onimaru", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/45/Hero054-portrait.png/revision/latest?cb=20220525165300"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Karina",
+    "skin": [
+      {"name": "Shadow Blade", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/18/Hero081-portrait.png/revision/latest?cb=20220525165313"},
+      {"name": "Phantom Blade", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero082-portrait.png/revision/latest?cb=20220525165314"},
+      {"name": "Black Pearl", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/88/Hero083-portrait.png/revision/latest?cb=20220525165315"},
+      {"name": "Doom Duelist", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/53/Hero084-portrait.png/revision/latest?cb=20220525165316"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Fanny",
+    "skin": [
+      {"name": "Blade Dancer", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/91/Hero181-portrait.png/revision/latest?cb=20220525164717"},
+      {"name": "Royal Cavalry", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero183-portrait.png/revision/latest?cb=20220525164719"},
+      {"name": "Skylark", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero184-portrait.png/revision/latest?cb=20220525164720"},
+      {"name": "Punk Blade", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/09/Hero182-portrait.png/revision/latest?cb=20220525164718"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Hayabusa",
+    "skin": [
+      {"name": "Crimson Shadow", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/92/Hero301-portrait.png/revision/latest?cb=20220525164930"},
+      {"name": "Future Enforcer", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero302-portrait.png/revision/latest?cb=20220525164931"},
+      {"name": "Shadow of Obscurity", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero303-portrait.png/revision/latest?cb=20220525164932"},
+      {"name": "Biological Weapon", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/52/Hero304-portrait.png/revision/latest?cb=20220525164933"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Natalia",
+    "skin": [
+      {"name": "Bright Claw", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero361-portrait.png/revision/latest?cb=20220525165049"},
+      {"name": "Phantom Dancer", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/4b/Hero363-portrait.png/revision/latest?cb=20220525165051"},
+      {"name": "Midnight Raven", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero362-portrait.png/revision/latest?cb=20220525165050"},
+      {"name": "Cyber Spectre", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero364-portrait.png/revision/latest?cb=20220525165052"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Lancelot",
+    "skin": [
+      {"name": "Perfumed Knight", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/90/Hero481-portrait.png/revision/latest?cb=20220525165305"},
+      {"name": "Floral Knight", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6f/Hero482-portrait.png/revision/latest?cb=20220525165306"},
+      {"name": "Dark Earl", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/36/Hero483-portrait.png/revision/latest?cb=20220525165307"},
+      {"name": "Royal Matador", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/45/Hero484-portrait.png/revision/latest?cb=20220525165308"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Helcurt",
+    "skin": [
+      {"name": "Deadly Stinger", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero571-portrait.png/revision/latest?cb=20220525165438"},
+      {"name": "Ice Scythe", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero572-portrait.png/revision/latest?cb=20220525165439"},
+      {"name": "Evil Incarnate", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/36/Hero573-portrait.png/revision/latest?cb=20220525165440"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Gusion",
+    "skin": [
+      {"name": "Holy Blade", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero601-portrait.png/revision/latest?cb=20220525165511"},
+      {"name": "Hairstylist", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero602-portrait.png/revision/latest?cb=20220525165513"},
+      {"name": "Cosmic Gleam", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/36/Hero603-portrait.png/revision/latest?cb=20220525165514"},
+      {"name": "K Legend", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/45/Hero604-portrait.png/revision/latest?cb=20220525165515"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Selena",
+    "skin": [
+      {"name": "Abyssal Witch", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero611-portrait.png/revision/latest?cb=20220525165535"},
+      {"name": "Double Identity", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero612-portrait.png/revision/latest?cb=20220525165537"},
+      {"name": "Thunder Flash", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/40/Hero613-portrait.png/revision/latest?cb=20220525165538"},
+      {"name": "S.T.U.N. Selena", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/18/Hero614-portrait.png/revision/latest?cb=20220525165539"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Lesley",
+    "skin": [
+      {"name": "Deadly Sniper", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero621-portrait.png/revision/latest?cb=20220525165546"},
+      {"name": "Royal Musketeer", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/13/Hero622-portrait.png/revision/latest?cb=20220525165547"},
+      {"name": "Hawk-eyed Sniper", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero623-portrait.png/revision/latest?cb=20220525165548"},
+      {"name": "Lethal Lady", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero624-portrait.png/revision/latest?cb=20220525165549"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Hanzo",
+    "skin": [
+      {"name": "Ame no Hanzo", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero701-portrait.png/revision/latest?cb=20220525165646"},
+      {"name": "Undead King", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero702-portrait.png/revision/latest?cb=20220525165647"},
+      {"name": "The Pale Phantom", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero703-portrait.png/revision/latest?cb=20220525165648"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Aamon",
+    "skin": [
+      {"name": "Monarch of Twilight", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero1101-portrait.png/revision/latest?cb=20220525170513"},
+      {"name": "Duke of Shards", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero1102-portrait.png/revision/latest?cb=20220525170514"},
+      {"name": "Abyssal Lord", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero1103-portrait.png/revision/latest?cb=20220525170515"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Benedetta",
+    "skin": [
+      {"name": "Shadow Ranger", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero991-portrait.png/revision/latest?cb=20220525170258"},
+      {"name": "Death Oath", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/68/Hero992-portrait.png/revision/latest?cb=20220525170259"},
+      {"name": "Street Blow", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero993-portrait.png/revision/latest?cb=20220525170300"},
+      {"name": "Moonblade", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/33/Hero994-portrait.png/revision/latest?cb=20220525170301"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Ling",
+    "skin": [
+      {"name": "Cyan Finch", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero901-portrait.png/revision/latest?cb=20220525170118"},
+      {"name": "Night Shade", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero902-portrait.png/revision/latest?cb=20220525170119"},
+      {"name": "Street Punk", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero903-portrait.png/revision/latest?cb=20220525170120"},
+      {"name": "Cosmo Guard", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/40/Hero904-portrait.png/revision/latest?cb=20220525170121"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Joy",
+    "skin": [
+      {"name": "Flash of Joy", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero1191-portrait.png/revision/latest?cb=20230307102558"},
+      {"name": "Fire Cat Joy", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/83/Hero1192-portrait.png/revision/latest?cb=20230307102627"},
+      {"name": "M-World Joy", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1193-portrait.png/revision/latest?cb=20230421120048"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Nolan",
+    "skin": [
+      {"name": "Cosmic Wayfinder", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1231-portrait.png/revision/latest?cb=20240116120011"},
+      {"name": "Fashion Maven", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero1232-portrait.png/revision/latest?cb=20240116120052"},
+      {"name": "M-World Nolan", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero1233-portrait.png/revision/latest?cb=20240116120122"}
+    ]
+  } ,
+  {
+    "role": "assassin",
+    "hero": "Yi Sun-shin",
+    "skin": [
+      {"name": "Major General", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero311-portrait.png/revision/latest?cb=20220525164939"},
+      {"name": "Roguish Ranger", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero312-portrait.png/revision/latest?cb=20220525164940"},
+      {"name": "Fleet Warden", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero313-portrait.png/revision/latest?cb=20220525164941"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Kadita",
+    "skin": [
+      {"name": "Ocean Goddess", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero741-portrait.png/revision/latest?cb=20220525165740"},
+      {"name": "White Robin", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero742-portrait.png/revision/latest?cb=20220525165741"},
+      {"name": "Atlantis Princess", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero743-portrait.png/revision/latest?cb=20220525165742"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Mathilda",
+    "skin": [
+      {"name": "Swift Plume", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero1021-portrait.png/revision/latest?cb=20220525170336"},
+      {"name": "Unrestrained Delight", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero1022-portrait.png/revision/latest?cb=20220525170337"},
+      {"name": "Light Chaser", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1023-portrait.png/revision/latest?cb=20220525170338"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Suyou",
+    "skin": [
+      {"name": "Mask of the Soul", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1261-portrait.png/revision/latest?cb=20241023120033"},
+      {"name": "Night Walker", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4b/Hero1262-portrait.png/revision/latest?cb=20241023120054"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Julian",
+    "skin": [
+      {"name": "Scarlet Raven", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cb=20220525170638"},
+      {"name": "Silent Edge", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1162-portrait.png/revision/latest?cb=20220525170651"},
+      {"name": "Megumi Fushiguro", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1163-portrait.png/revision/latest?cb=20230212035450"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Aamon",
+    "skin": [
+      {"name": "Noble Phantasm", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero1101-portrait.png/revision/latest?cb=20220525170513"},
+      {"name": "Dark Puppeteer", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero1102-portrait.png/revision/latest?cb=20220525170514"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Helcurt",
+    "skin": [
+      {"name": "Frost Wing", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero571-portrait.png/revision/latest?cb=20220525165438"},
+      {"name": "Phantom Dusk", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero572-portrait.png/revision/latest?cb=20220525165439"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Fanny",
+    "skin": [
+      {"name": "Royal Cavalry", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero183-portrait.png/revision/latest?cb=20220525164719"},
+      {"name": "Skylark", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero184-portrait.png/revision/latest?cb=20220525164720"}
+    ]
+  } ,
+  {
+    "role": "assassin",
+    "hero": "Gusion",
+    "skin": [
+      {"name": "Soul Revelation", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero601-portrait.png/revision/latest?cb=20220525165511"},
+      {"name": "Night Owl", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero602-portrait.png/revision/latest?cb=20220525165513"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Hayabusa",
+    "skin": [
+      {"name": "Crimson Shadow", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/92/Hero301-portrait.png/revision/latest?cb=20220525164930"},
+      {"name": "Shadow Corruptor", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero302-portrait.png/revision/latest?cb=20220525164931"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Lancelot",
+    "skin": [
+      {"name": "Masked Knight", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/90/Hero481-portrait.png/revision/latest?cb=20220525165305"},
+      {"name": "Brave Soul", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6f/Hero482-portrait.png/revision/latest?cb=20220525165306"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Natalia",
+    "skin": [
+      {"name": "Grim Strangler", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero361-portrait.png/revision/latest?cb=20220525165049"},
+      {"name": "Horizon Ghost", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/4b/Hero363-portrait.png/revision/latest?cb=20220525165051"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Saber",
+    "skin": [
+      {"name": "Golden Flash", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/52/Hero051-portrait.png/revision/latest?cb=20220525165257"},
+      {"name": "Full Metal", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/9/94/Hero052-portrait.png/revision/latest?cb=20220525165258"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Selena",
+    "skin": [
+      {"name": "Wisp of Shadow", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero611-portrait.png/revision/latest?cb=20220525165535"},
+      {"name": "Curse of Vine", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/39/Hero612-portrait.png/revision/latest?cb=20220525165537"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Karina",
+    "skin": [
+      {"name": "Leona Blade", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/18/Hero081-portrait.png/revision/latest?cb=20220525165313"},
+      {"name": "Zealot Blade", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero082-portrait.png/revision/latest?cb=20220525165314"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Benedetta",
+    "skin": [
+      {"name": "Honor Blade", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero991-portrait.png/revision/latest?cb=20220525170258"},
+      {"name": "Spirit of Blade", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/68/Hero992-portrait.png/revision/latest?cb=20220525170259"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Ling",
+    "skin": [
+      {"name": "Return of Soul", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero901-portrait.png/revision/latest?cb=20220525170118"},
+      {"name": "Dragon Tamer", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero902-portrait.png/revision/latest?cb=20220525170119"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Lesley",
+    "skin": [
+      {"name": "Angel of Death", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero621-portrait.png/revision/latest?cb=20220525165546"},
+      {"name": "General Rosa", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/13/Hero622-portrait.png/revision/latest?cb=20220525165547"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Hanzo",
+    "skin": [
+      {"name": "Phantom Ninja", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero701-portrait.png/revision/latest?cb=20220525165646"},
+      {"name": "Inferno Ninja", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/6/60/Hero702-portrait.png/revision/latest?cb=20220525165647"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Joy",
+    "skin": [
+      {"name": "Jolly Party", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero1191-portrait.png/revision/latest?cb=20230307102558"},
+      {"name": "Cat Diva", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/8/83/Hero1192-portrait.png/revision/latest?cb=20230307102627"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Nolan",
+    "skin": [
+      {"name": "Star Chaser", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1231-portrait.png/revision/latest?cb=20240116120011"},
+      {"name": "Cosmic Voyager", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero1232-portrait.png/revision/latest?cb=20240116120052"}
+    ]
+  },
+  {
+    "role": "assassin",
+    "hero": "Aulus",
+    "skin": [
+      {"name": "Feral Warrior", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest?cb=20220525171829"},
+      {"name": "Rage Beast", "img": "https://wsrv.nl/?url=static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1082-portrait.png/revision/latest?cb=20220525170454"}
+    ]
+  }
+]
